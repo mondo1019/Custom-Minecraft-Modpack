@@ -1,0 +1,911 @@
+2018-12-03 20:21:10,861 [main] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-03 20:21:12,551 [main] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-06 18:58:14,749 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-06 18:58:18,066 [Server thread] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-06 18:58:52,757 [main] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-06 18:58:54,130 [main] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-06 19:07:52,879 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-06 19:07:55,143 [Server thread] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-06 21:24:24,848 [Server thread] WARN Dungeons2 | DungeonBuilderTopDown.java:260 | Levels don't require joining 2 to 1
+2018-12-06 21:24:29,987 [Server thread] WARN Dungeons2 | DungeonBuilderTopDown.java:260 | Levels don't require joining 4 to 3
+2018-12-06 21:24:36,874 [Server thread] WARN Dungeons2 | DungeonBuilderTopDown.java:260 | Levels don't require joining 5 to 4
+2018-12-06 21:24:37,023 [Server thread] WARN Dungeons2 | RotatorRegistry.java:68 | The class has already been registered.
+2018-12-06 21:24:37,161 [Server thread] WARN Dungeons2 | ChestPopulator.java:210 | Unable to convert ChestItem to minecraft item: 
+2018-12-06 21:24:39,896 [Server thread] WARN Dungeons2 | ChestPopulator.java:210 | Unable to convert ChestItem to minecraft item: 
+2018-12-06 21:24:41,403 [Server thread] INFO Dungeons2 | DungeonsWorldGen.java:327 | Dungeon generated @ -540 74 -283
+2018-12-08 15:13:08,123 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-08 15:13:10,187 [Server thread] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-08 15:15:03,817 [main] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-08 15:15:05,317 [main] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-09 16:12:46,672 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-09 16:12:49,403 [Server thread] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-09 16:13:08,275 [main] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-09 16:13:10,893 [main] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-10 18:37:36,481 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-10 18:37:39,865 [Server thread] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-10 18:38:04,121 [main] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-10 18:38:05,573 [main] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-10 18:40:44,004 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-10 18:40:46,515 [Server thread] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
+2018-12-10 21:29:26,741 [Server thread] WARN Dungeons2 | DungeonBuilderTopDown.java:260 | Levels don't require joining 3 to 2
+2018-12-10 21:29:33,183 [Server thread] WARN Dungeons2 | RotatorRegistry.java:68 | The class has already been registered.
+2018-12-10 21:29:33,674 [Server thread] WARN Dungeons2 | ChestPopulator.java:210 | Unable to convert ChestItem to minecraft item: 
+2018-12-10 21:29:34,116 [Server thread] INFO Dungeons2 | DungeonsWorldGen.java:327 | Dungeon generated @ -74 68 1160
+2018-12-10 21:30:40,977 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2018-12-10 21:30:43,023 [Server thread] INFO GottschCore | VersionChecker.java:52 | Published Version Info: [
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 9,
+			"build" : 4	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 0,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 10,
+			"build" : 2	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 11,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 0	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 1	
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 1,
+			"build" : 0
+		}
+	},
+	{
+		"minecraft" : {
+			"major" : 1,
+			"minor" : 12,
+			"build" : 2
+		},
+		"mod" : {
+			"major" : 1,
+			"minor" : 3,
+			"build" : 3
+		}
+	}
+]
